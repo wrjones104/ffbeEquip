@@ -232,7 +232,7 @@
     {"name":"Hyper Ball","type":"throwing","atk":55,"access":["event"]},
     {"name":"Platinum Edge","type":"throwing","atk":42,"killers":[{"name":"bird","percent":50}],"access":["chest"]},
     {"name":"Chakram","type":"throwing","atk":21,"killers":[{"name":"bird","percent":50}],"outclassedBy":"Moon Ring Blade","access":["shop","recipe-chest","quest"]},
-    {"name":"Boomrang","type":"throwing","atk":16,"killers":[{"name":"bird","percent":50}],"outclassedBy":"Moon Ring Blade","access":["shop","recipe-chest","quest"]},
+    {"name":"Boomerang","type":"throwing","atk":16,"killers":[{"name":"bird","percent":50}],"outclassedBy":"Moon Ring Blade","access":["shop","recipe-chest","quest"]},
     {"name":"Slick Dart","type":"throwing","atk":60,"spr":32,"access":["recipe-event"]},
 
     {"name":"Sparky","type":"gun","atk":120,"element":"lightning","special":["Increase equipment ATK (50%) when single wielding"],"access":["TMR-5*"],"tmrUnit":"Olive"},
